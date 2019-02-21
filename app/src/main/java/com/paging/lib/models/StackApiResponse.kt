@@ -1,4 +1,4 @@
-package com.paging.lib
+package com.paging.lib.models
 
 class Owner {
     var reputation: Int = 0

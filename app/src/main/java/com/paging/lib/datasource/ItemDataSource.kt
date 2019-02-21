@@ -1,6 +1,9 @@
-package com.paging.lib
+package com.paging.lib.datasource
 
 import android.arch.paging.PageKeyedDataSource
+import com.paging.lib.models.Item
+import com.paging.lib.models.StackApiResponse
+import com.paging.lib.retrofit.RetrofitClient
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response

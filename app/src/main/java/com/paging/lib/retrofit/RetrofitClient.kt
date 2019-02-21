@@ -1,4 +1,4 @@
-package com.paging.lib
+package com.paging.lib.retrofit
 
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory

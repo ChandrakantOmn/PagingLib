@@ -1,4 +1,4 @@
-package com.paging.lib
+package com.paging.lib.adapter
 
 import android.arch.paging.PagedListAdapter
 import android.content.Context
@@ -12,6 +12,8 @@ import android.widget.TextView
 import android.widget.Toast
 
 import com.bumptech.glide.Glide
+import com.paging.lib.R
+import com.paging.lib.models.Item
 
 class ItemAdapter internal constructor(private val mCtx: Context) : PagedListAdapter<Item, ItemAdapter.ItemViewHolder>(DIFF_CALLBACK) {
 

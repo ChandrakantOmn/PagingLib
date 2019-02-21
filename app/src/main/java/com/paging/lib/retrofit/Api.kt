@@ -1,5 +1,6 @@
-package com.paging.lib
+package com.paging.lib.retrofit
 
+import com.paging.lib.models.StackApiResponse
 import retrofit2.Call
 import retrofit2.http.GET
 import retrofit2.http.Query

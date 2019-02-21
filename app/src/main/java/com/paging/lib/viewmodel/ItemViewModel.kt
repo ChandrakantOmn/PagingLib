@@ -1,10 +1,13 @@
-package com.paging.lib
+package com.paging.lib.viewmodel
 
 import android.arch.lifecycle.LiveData
 import android.arch.lifecycle.ViewModel
 import android.arch.paging.LivePagedListBuilder
 import android.arch.paging.PageKeyedDataSource
 import android.arch.paging.PagedList
+import com.paging.lib.datasource.ItemDataSource
+import com.paging.lib.datasource.ItemDataSourceFactory
+import com.paging.lib.models.Item
 
 class ItemViewModel : ViewModel() {
 
