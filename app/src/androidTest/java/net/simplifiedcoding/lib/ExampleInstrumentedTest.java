@@ -1,4 +1,4 @@
-package net.simplifiedcoding.androidpagingexample;
+package com.paging.lib;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("net.simplifiedcoding.androidpagingexample", appContext.getPackageName());
+        assertEquals("com.paging.lib", appContext.getPackageName());
     }
 }

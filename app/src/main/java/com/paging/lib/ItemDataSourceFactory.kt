@@ -1,4 +1,4 @@
-package net.simplifiedcoding.androidpagingexample
+package com.paging.lib
 
 import android.arch.lifecycle.MutableLiveData
 import android.arch.paging.DataSource

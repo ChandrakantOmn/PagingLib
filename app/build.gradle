@@ -5,7 +5,7 @@ apply plugin: 'kotlin-android'
 android {
     compileSdkVersion 27
     defaultConfig {
-        applicationId "net.simplifiedcoding.androidpagingexample"
+        applicationId "com.paging.lib"
         minSdkVersion 15
         targetSdkVersion 27
         versionCode 1

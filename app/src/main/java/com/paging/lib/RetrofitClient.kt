@@ -1,4 +1,4 @@
-package net.simplifiedcoding.androidpagingexample
+package com.paging.lib
 
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory

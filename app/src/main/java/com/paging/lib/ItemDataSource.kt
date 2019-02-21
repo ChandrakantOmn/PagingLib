@@ -1,4 +1,4 @@
-package net.simplifiedcoding.androidpagingexample
+package com.paging.lib
 
 import android.arch.paging.PageKeyedDataSource
 import retrofit2.Call

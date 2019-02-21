@@ -1,4 +1,4 @@
-package net.simplifiedcoding.androidpagingexample
+package com.paging.lib
 
 import android.arch.lifecycle.LiveData
 import android.arch.lifecycle.ViewModel
